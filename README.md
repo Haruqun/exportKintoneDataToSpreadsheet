@@ -1,0 +1,2 @@
+# exportKintoneDataToSpreadsheet
+ kintone APIを活用してデータを取得し、スプレッドシートに出力
